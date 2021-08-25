@@ -1,3 +1,2 @@
-# INTRO
-## SUBHEADING
-This is an intro!
+# Learning Git
+This repo was created to get familiarized with git.
